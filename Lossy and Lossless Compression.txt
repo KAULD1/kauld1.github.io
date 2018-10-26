@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<link rel="stylesheet" href="style.css">
+
+<head>
+
+<title>Lossy and Lossless Compression</title>
+
+</head>
+
+<body>
+
+<div id="container">
+
+<center><header class="main-header" role="benner">
+ <img src="banner.jpg" alt="Banner Image">
+</header></center>
+
+<center><h1>Lossy and Lossless Compression</h1></center>
+
+<p>Computer compression is removing some data to make a file smaller. The compression can lossy or lossless both having different outcomes on how the file is affected. 
+</p>
+
+<h2>Lossy Compression</h2>
+
+<p>
+</p>
+
+<h2>Lossless Compression</h2> 
+
+<p>
+</p>
+
+</div>
+
+</body>
+
+</html>

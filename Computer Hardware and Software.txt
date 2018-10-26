@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<link rel="stylesheet" href="style.css">
+
+<head>
+
+<title>Computer Hardware and Software</title>
+
+</head>
+
+<body>
+
+<div id="container">
+
+<center><header class="main-header" role="benner">
+ <img src="banner.jpg" alt="Banner Image">
+</header></center>
+
+<center><h1>Computer Hardware and Software</h1></center>
+
+<p>Hardware and software are the two major parts of a computer. Computer hardware are the parts that you can physically touch. Were as computer software is inside the computer as a program.</p>
+
+<h2>Computer Hardware</h2>
+
+<p>Computer hardware is the physical parts of the computer system. Their are some parts inside the computer case called internal hardware and some outside the computer case called external hardware.</p>
+
+<h3>External Hardware</h3>
+
+<p>External hardware is positioned on the outside of the computer case but is connected to it through bluetooth, AUX cord, USB cord, etc. Examples of external hardware are printers, speakers, a mouse and headsets as the are all separate from the computer but can be connected to it.</p>
+
+<h3>Internal Harware</h3>
+
+<p>Internal hardware is positioned in the inside of the computer case. These pieces of hardware  are the most important as without them the computer wouldn’t work at all. Examples of internal hardware are hard drives, motherboards, processors, Random Access Memory (R.A.M), graphics cards and the Central Processing Unit (C.P.U)</p>
+
+<h2>Computer Software</h2> 
+
+<p>Computer compression is removing some data to make a file smaller. The compression can lossy or lossless both having different outcomes on how the file is affected.</p>
+
+</div>
+
+</body>
+
+</html>
